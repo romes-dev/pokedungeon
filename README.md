@@ -1,7 +1,7 @@
-# 🎮 PokéDungeon — Gabarito do Professor
+# 🎮 PokéDungeon — Gabarito do Game
 
 RPG de batalha por turnos no terminal, desenvolvido como gabarito do exercício de
-**Programação Orientada a Objetos em Java (nível iniciante)**.
+**Programação Orientada a Objetos em Java (alunos de POO do tio Romes)**.
 
 ---
 
